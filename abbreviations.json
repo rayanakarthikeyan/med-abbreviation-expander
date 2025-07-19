@@ -1,0 +1,18 @@
+{
+  "bid": "twice daily",
+  "b.i.d": "twice daily",
+  "tid": "three times daily",
+  "t.i.d": "three times daily",
+  "qd": "once daily",
+  "q.d": "once daily",
+  "po": "by mouth",
+  "p.o": "by mouth",
+  "iv": "intravenous",
+  "im": "intramuscular",
+  "prn": "as needed",
+  "hs": "at bedtime",
+  "ac": "before meals",
+  "pc": "after meals",
+  "stat": "immediately",
+  "npo": "nothing by mouth"
+}

@@ -12,7 +12,7 @@ Doctors and healthcare professionals often use handwritten abbreviations in pres
 
 ## 🚀 Live Demo
 
-Try it live (mobile-friendly) 👉 [Hugging Face Space](https://huggingface.co/spaces/YOUR_USERNAME/medical-abbreviation-expander)
+Try it live (mobile-friendly) 👉 [Hugging Face Space](https://huggingface.co/spaces/karthikeyanr05/med-abbreviation-expander)
 
 > 📱 Upload a handwritten note or prescription photo — get instant expanded abbreviations!
 
